@@ -2,7 +2,7 @@
 
 This folder contains my certifications related to:
 - Data Analysis
-- Business Intelligence
+- Power BI
 - Visualization
 - SQL & Python
 
